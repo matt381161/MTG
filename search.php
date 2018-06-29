@@ -13,7 +13,7 @@
 	$cards = Card::where(['name' => $card_name])->all();
 
 	$translate = new TranslateClient([
-	    'key' => 'AIzaSyDoFkOwiDlyFMroa1Eful5acXZPb2y8oIc'
+	    'key' => 'your google API key'
 	]);
 	
 	foreach ($cards as $card) {
