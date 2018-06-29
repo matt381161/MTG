@@ -1,0 +1,36 @@
+<select name="set_name" class="form-control" id="sel1">
+	<option value="dom">多明納里亞</option>
+	<option value="rix">決勝依夏蘭</option>
+	<option value="xln">依夏蘭</option>
+	<option value="hou">幻滅時刻</option>
+	<option value="akh">阿芒凱</option>
+	<option value="aer">乙太之亂</option>
+	<option value="kld">卡拉德許</option>
+	<option value="emn">異月傳奇</option>
+	<option value="soi">依尼翠闇影</option>
+	<option value="ogw">守護者誓約</option>
+	<option value="bfz">再戰贊迪卡</option>
+	<option value="ori">起源</option>
+	<option value="dtk">韃契龍王</option>
+	<option value="frf">龍命殊途</option>
+	<option value="ktk">韃契可汗</option>
+	<option value="jou">尼茲之旅</option>
+	<option value="bng">天神創生</option>
+	<option value="ths">賽洛斯</option>
+	<option value="dgm">巨龍迷城</option>
+	<option value="gtc">兵臨古城</option>
+	<option value="rtr">再訪拉尼卡</option>
+	<option value="avr">艾維欣重臨</option>
+	<option value="dka">黑影籠罩</option>
+	<option value="isd">依尼翠</option>
+	<option value="nph">新非瑞克西亚</option>
+	<option value="mbs">围攻秘罗地</option>
+	<option value="som">秘罗地创痕</option>
+	<option value="m10">M10</option>
+	<option value="m11">M11</option>
+	<option value="m12">M12</option>
+	<option value="m13">M13</option>
+	<option value="m14">M14</option>
+	<option value="m15">M15</option>
+	<option value="m19">M19</option>
+</select>
